@@ -36,3 +36,5 @@ struct ListNode* reverseList(struct ListNode* head){
 
 
 }
+// ideal solution 
+// https://leetcode.com/problems/reverse-linked-list/solutions/440696/easy-to-understand-recursive-solution-beats-98-takes-2-arguments/?languageTags=c
